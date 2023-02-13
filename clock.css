@@ -82,7 +82,7 @@ body{
 }
 
 .arrows .hour{
-    height: 8px;
+    height: 80px;
     transform: rotate(30deg);
     
 }
